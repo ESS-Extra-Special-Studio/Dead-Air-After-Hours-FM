@@ -1,0 +1,17 @@
+{
+  "required": true,
+  "minVersion": "0.8",
+  "package": "uk.co.extraspecialstudio.mixin",
+  "compatibilityLevel": "JAVA_17",
+  "refmap": "dead_air_after_hours_fm.refmap.json",
+  "mixins": [
+  ],
+  "client": [
+  ],
+  "injectors": {
+    "defaultRequire": 1
+  },
+  "overwrites": {
+    "requireAnnotations": true
+  }
+}
